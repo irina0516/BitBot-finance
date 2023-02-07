@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ec68993.css",
+    "main.js": "/static/js/main.fb2460b6.js",
+    "static/js/563.4b3887f1.chunk.js": "/static/js/563.4b3887f1.chunk.js",
+    "static/js/787.bbba72da.chunk.js": "/static/js/787.bbba72da.chunk.js",
+    "static/js/163.d585ae08.chunk.js": "/static/js/163.d585ae08.chunk.js",
+    "static/media/key.gif": "/static/media/key.8713ba3c52ecad44dc9b.gif",
+    "static/media/noise.png": "/static/media/noise.bfb60e3dd312ff6a8e61.png",
+    "static/media/logo.png": "/static/media/logo.ccaf97663e10dd6270f6.png",
+    "static/media/Seven Segment.ttf": "/static/media/Seven Segment.3ee4f8118d9db6b61456.ttf",
+    "static/media/metamask.svg": "/static/media/metamask.d829cfbfa94392cea28e6e649e254357.svg",
+    "static/media/walletconnect.svg": "/static/media/walletconnect.71311746862044402c95a37653fb5b74.svg",
+    "index.html": "/index.html",
+    "static/media/logotype.svg": "/static/media/logotype.926e3eaef7d2da8adf200d49f82ffdcf.svg",
+    "main.1ec68993.css.map": "/static/css/main.1ec68993.css.map",
+    "main.fb2460b6.js.map": "/static/js/main.fb2460b6.js.map",
+    "787.bbba72da.chunk.js.map": "/static/js/787.bbba72da.chunk.js.map",
+    "163.d585ae08.chunk.js.map": "/static/js/163.d585ae08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec68993.css",
+    "static/js/main.fb2460b6.js"
+  ]
+}
